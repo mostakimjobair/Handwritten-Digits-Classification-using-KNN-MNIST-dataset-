@@ -9,6 +9,6 @@ Just completed a new Machine Learning project!
 
 📌 The project demonstrates how a simple yet powerful algorithm like KNN can be applied to image classification tasks.
 
-🔗 Check out the full project on GitHub: [Your GitHub Link]
+
 
 #MachineLearning #KNN #MNIST #DataScience #AI #Python #Classification
